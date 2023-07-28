@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtchlorence
-- 👀 I’m interested in learning new things.
+- 👀 I’m interested in learning AI/ML.
 - 🌱 I’m currently learning PYTHON
 - 📫 If you wish to talk to me make sure you bring snacks. (kidding :>) 
 
