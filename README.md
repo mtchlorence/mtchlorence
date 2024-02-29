@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mtchlorence
-- 👀 I’m interested in AI/ML.
-- 🌱 I’m currently learning PYTHON.
+- 👋 Hi, I’m Mitch! 
+- 🧙🏻‍♀️ I’m currently honing my skills to become a data professional wizard.
 
 <!---
 mtchlorence/mtchlorence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
