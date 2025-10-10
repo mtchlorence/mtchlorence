@@ -10,7 +10,7 @@ I’m someone who loves exploring, experimenting, and learning how data and clou
 🧠 Expanding my knowledge in:
 - ☁️ **AWS Services & Platform Tools** → Glue, Athena, Lambda, CloudWatch, S3  
 - ⚙️ **Automation & Scripting** → Python, Bash, and small daily efficiency hacks  
-- 🧩 **Data Quality & Lineage** → building trust through better data visibility  
+- 🧩 **Data Quality & Governance** → building trust through better data visibility  
 - 🔍 **Monitoring & Observability** → keeping systems healthy and transparent  
 - 📊 **Data Visualization** → turning raw data into clear, meaningful insights  
 
