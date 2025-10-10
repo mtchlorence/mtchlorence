@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Mitch!
 
-
 Welcome to my GitHub! 🌱  
 I’m someone who loves exploring, experimenting, and learning how data and cloud systems connect behind the scenes.  
+
 ---
 
 ### 🌱 What I’m Currently Learning
