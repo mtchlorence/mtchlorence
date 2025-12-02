@@ -44,7 +44,7 @@ I learn best by:
 - 🧩 Loves solving puzzles  
 - ☕ Runs on coffee and curiosity  
 - 🌍 Trying to grow a little every day  
-- 🐶 Proud furmum of five *kiddogs* — they’re my daily dose of chaos and comfort  
+- 🐶 Proud furmum of seven *kiddogs* — they’re my daily dose of chaos and comfort  
 
 ---
 
