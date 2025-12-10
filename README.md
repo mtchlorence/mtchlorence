@@ -8,22 +8,11 @@ I’m someone who loves exploring, experimenting, and learning how data and clou
 ### 🌱 What I’m Currently Learning
 
 🧠 Expanding my knowledge in:
-- ☁️ **AWS Services & Platform Tools** → Glue, Athena, Lambda, CloudWatch, S3  
+- ☁️ **AWS Services & Platform Tools** → Glue, Athena, Lambda, CloudWatch, S3, Datadog & 
 - ⚙️ **Automation & Scripting** → Python, Bash, and small daily efficiency hacks  
 - 🧩 **Data Quality & Governance** → building trust through better data visibility  
 - 🔍 **Monitoring & Observability** → keeping systems healthy and transparent  
 - 📊 **Data Visualization** → turning raw data into clear, meaningful insights  
-
----
-
-### 💡 My Learning Style
-
-I learn best by:
-- 🧪 Building small experiments to test ideas  
-- 📚 Reading docs and diving into “how things really work”  
-- 🧠 Breaking things (then fixing them again 😅)  
-- ✍️ Writing down what I’ve learned to remember it better  
-- 🐶 Taking short “paw-ses” with my dogs — they’re the best debugging partners ever  
 
 ---
 
@@ -37,14 +26,6 @@ I learn best by:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-
----
-
-### ☕ A Bit About Me
-- 🧩 Loves solving puzzles  
-- ☕ Runs on coffee and curiosity  
-- 🌍 Trying to grow a little every day  
-- 🐶 Proud furmum of seven *kiddogs* — they’re my daily dose of chaos and comfort  
 
 ---
 
