@@ -28,14 +28,4 @@ I’m someone who loves exploring, experimenting, and learning how data and clou
 
 ---
 
-### 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31atlo3zjie6sz5qjr4spvlj2bj4?si=2ddc604689064400"> 
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
----
-
 > “Learning never stops — it just shifts focus (and sometimes takes a belly rub break).” 🐾🌟
