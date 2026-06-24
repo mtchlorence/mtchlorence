@@ -7,7 +7,7 @@ I’m someone who loves exploring, experimenting, and learning how data and clou
 
 ### 🌱 What I’m Currently Learning
 
-- ☁️ **AWS Services & Platform Tools** → Glue, Athena, Lambda, CloudWatch, S3, Datadog
+- ☁️ **AWS Services & Platform Tools** → Glue, Athena, Lambda, CloudWatch, S3, Secrets Manager, API Gateway
 - ⚙️ **Automation & Scripting** → Python, Bash, and small daily efficiency hacks  
 - 🧩 **Data Quality & Governance** → building trust through better data visibility  
 - 🔍 **Monitoring & Observability** → keeping systems healthy and transparent  
